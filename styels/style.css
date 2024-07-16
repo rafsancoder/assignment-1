@@ -1,0 +1,66 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+.background-section{
+    background-image: url(Hero-bg.png);
+
+}
+
+
+.background-section img {
+    max-width: 150px;
+    margin-bottom: 50px;
+   
+}
+.background-section {
+   
+    text-align: center;
+    padding: 100px 20px;
+    color: #000;
+   
+   
+}
+.background-section button {
+    padding: 15px 30px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+.background-section button:hover {
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.style{
+    margin: 100px 49px;
+}
+.why-web{ 
+    text-align: center;
+    
+}
+.all-part{
+    margin: 105px 100px;
+}
+.do-coding{
+    margin: 97px 80px;
+}
+.adjust-do-coding-part{
+    display: flex;
+}
+.adjust-do-coding-part2{
+    display: flex;
+}
+.adjust-do-coding-part3{
+    display: flex;
+}
+.bold-24{
+    font-size: 24px;
+    font-weight: bold;
+}
