@@ -64,3 +64,36 @@ header {
     font-size: 24px;
     font-weight: bold;
 }
+.targets{
+    margin: 105px 100px;
+
+}
+.inspiration{
+    text-align: center;
+}
+.video-wrapper{
+    margin: 32px 32px;
+}
+
+
+.skill-container{
+    display: flex;
+    margin: 48px;
+    gap: 24px;
+}
+.skill{
+    background-color: antiquewhite;
+    padding: 30px;
+}
+.skillss{
+    background-color: aquamarine;
+    padding: 30px;
+}
+.skl{
+    background-color: bisque;
+    padding: 30px;
+}
+.support{
+    margin: 105px 100px;
+    background-image: url(handshake.jpg)
+}
