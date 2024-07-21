@@ -43,6 +43,8 @@ header {
 }
 .why-web{ 
     text-align: center;
+    font-size: 32px;
+
     
 }
 .all-part{
@@ -70,6 +72,16 @@ header {
 }
 .inspiration{
     text-align: center;
+  
+    
+}
+.inspriration-para{
+    text-align: center;
+}
+.heading-1{
+    font-size: 32px;
+    text-align: center;
+
 }
 .video-wrapper{
     margin: 32px 32px;
@@ -93,7 +105,63 @@ header {
     background-color: bisque;
     padding: 30px;
 }
-.support{
-    margin: 105px 100px;
-    background-image: url(handshake.jpg)
+.support-section{
+    margin: 105px 150px;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    background-image: url('handshake.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.support h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.support p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.feedback-form {
+    display: inline-block;
+    text-align: center;
+}
+
+.feedback-form input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+.feedback-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.footer-content {
+    margin: 32px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+footer .social-links a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+footer .social-links img {
+    width: 24px;
+    height: 24px;
 }
